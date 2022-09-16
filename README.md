@@ -1,5 +1,8 @@
 # Kazzieasia22
 
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 <h1>Hi there</h1>
   
   <h2>About me</h2>
